@@ -1,6 +1,6 @@
 # LIBFT
 
-Este proyecto es una librería, en la que recreamos las funciones mas hábituales del lenguaje de programación C.
+Este proyecto es una librería, en la que recreamos las funciones mas habituales del lenguaje de programación C.
 
 
 bzero \ strlen \ strlcpy \ strlcat.\	strchr \	strrchr \	atoi \	isalpha \ isdigit \	isalnum \	isascii \ isprint \ toupper \	tolower \ strnstr \	strncmp \	memset
